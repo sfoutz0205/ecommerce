@@ -34,10 +34,10 @@ https://drive.google.com/file/d/1f9zDhuCOJMFFQksDi3dqXu6lnPcwEu0h/view?usp=shari
     node seeds/index.js
 * To run the application and connect to the database, type the following command into the command line:
     npm start
-* To test the application's api routes, navigate to Insomnia Core and run the following requests:
-  PRODUCTS: http://localhost:3001/api/products/
-  CATEGORIES: http://localhost:3001/api/categories/
-  TAGS: http://localhost:3001/api/tags/
+* To test the application's api routes, navigate to Insomnia Core and use the following API endpoints:
+  - PRODUCTS: http://localhost:3001/api/products/
+  - CATEGORIES: http://localhost:3001/api/categories/
+  - TAGS: http://localhost:3001/api/tags/
   
   ** Be mindful that you are using the correct PORT
 
